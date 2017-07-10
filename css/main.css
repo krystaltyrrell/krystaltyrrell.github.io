@@ -7,7 +7,7 @@ font-family: 'subtitle';
 src: url('../fonts/The_Black_Box-FFP.otf');
 }
 @import url('https://fonts.googleapis.com/css?family=Bitter');
-body {
+/*body {
   height: 100%;
 background: url(../img/bg.jpg) no-repeat center center fixed;
 -webkit-background-size: cover;
@@ -15,7 +15,12 @@ background: url(../img/bg.jpg) no-repeat center center fixed;
 -o-background-size: cover;
 background-size: cover;
 color: #888;
+}*/
+body {
+background-color: #2d2d2d;
+color: #888;
 }
+
 /*TYPOGRAPHY*/
 .subtitle {
 font-family: 'subtitle';
